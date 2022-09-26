@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local saved game data
+GoodJob\game\saves\persistent
+GoodJob\log.txt
+
+# IDE files
+.idea/
