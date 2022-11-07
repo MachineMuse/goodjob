@@ -129,8 +129,7 @@ dmypy.json
 .pyre/
 
 # Local saved game data
-GoodJob/game/saves
-GoodJob/game/tl
+GoodJob/game/saves/
 GoodJob/log.txt
 GoodJob/game/cache
 
