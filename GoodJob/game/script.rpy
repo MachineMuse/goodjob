@@ -1,7 +1,7 @@
 ﻿define v=Character('Mr. Valiant',color="c8c8ff")
 
-$ positiverelationshipvaliant=0
-$ negativerelationshipvaliant=0
+default positiverelationshipvaliant = 0
+default negativerelationshipvaliant = 0
 
 label start:
     "You awaken to the sound of three alarms blaring discordant hard rock from three separate corners of the room, each a failsafe to ensure your body’s need for sleep does not betray you at this critical moment."
