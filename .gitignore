@@ -137,6 +137,7 @@ GoodJob/game/cache
 # IDE/editor files
 .idea/
 *.kate-swp
+.gitignore~
 
 # Ren'Py compiled files
 *.rpyb
