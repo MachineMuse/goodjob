@@ -129,8 +129,13 @@ dmypy.json
 .pyre/
 
 # Local saved game data
-GoodJob\game\saves\persistent
-GoodJob\log.txt
+GoodJob/game/saves/persistent
+GoodJob/log.txt
+GoodJob/game/cache
 
 # IDE files
 .idea/
+
+# Ren'Py compiled files
+*.rpyb
+*.rpyc
